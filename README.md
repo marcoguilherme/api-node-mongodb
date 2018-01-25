@@ -1,5 +1,6 @@
 # api-node-mongodb
 API Rest com o funcionamento basico do CRUD usando o mongodb como banco de dados rodando no NodeJS.
+A API tem os rotas necessarias para listarm deletar, atualizar e inserir livros e generos de livros na API, apesar de simples e com poucos documentos a serem namipulados no banco estao os recursos principais basicos de uma API.
 
 ## Requisitos
 
