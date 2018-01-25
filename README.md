@@ -12,11 +12,11 @@ Navegue ate o diretorio onde deseja guardar o projeto usando o terminal e digite
 
 `git clone https://github.com/marcoguilherme/api-node-mongodb`
 
-apos o termino da instalacao digite 
+apos o termino da clonagem sera necessario instalar todas as dependencias do projeto, par aisso digite no terminal o seguinte comando.
 
 `npm install`
 
-Todas as dependencias utilizadas no projeto precisam serem instaladas.
+Pronto todas as dependencias foram instaladas.
 
 ### Dependencias utilizadas
 
